@@ -22,5 +22,6 @@ Please enter a number:
 Installation & Run
 
 git clone git@github.com:muh1ddinn/Guessing_game.git
+
 cd guessing_game  
 go run main.go  
